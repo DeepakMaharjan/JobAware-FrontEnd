@@ -1,0 +1,214 @@
+.logo
+{
+	color: #000;
+	/*padding-top: 18px; */
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	text-shadow: -2px 5px 5px rgba(0,0,0,0.6);
+}
+.logo:hover
+{
+	color: #00f;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	text-shadow: -2px 5px 5px rgba(0,0,0,0.6);
+}
+#loginform
+{
+	margin: 0 auto;
+	width: 60%;
+	padding-left: 0px;
+	padding: 40px;
+	color: #000;
+}
+.loginform
+{
+	background: rgb(168,171,100);
+	background: -webkit-linear-gradient(238deg, rgba(168,171,100,1) 0%, rgba(58,64,153,1) 100%);
+	background: -o-linear-gradient(238deg, rgba(168,171,100,1) 0%, rgba(58,64,153,1) 100%);
+	background: linear-gradient(328deg, rgba(168,171,100,1) 0%, rgba(58,64,153,1) 100%);
+}
+.inner
+{
+	background: transparent;
+}
+.loginform .welcome
+{
+	width: 200px;
+	height: 100px;
+	margin: 0 auto;	
+}
+#lform
+{
+	text-align: center;
+}
+#lform input::placeholder { 
+  color: red;
+}
+
+
+#lform .form-wrapper
+{
+	text-align: initial;
+}
+#lform label
+{
+	font-size: 18px;
+}
+.buttons
+{
+	width: 50%;
+	margin-bottom: 20px;
+}
+#lform input[type=text],input[type=email],input[type=password]
+{
+	border-radius: 0;
+	color: #000;
+}
+.home-icon
+{
+	height: 70px;
+	width: 70px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 10px;
+
+}
+.inner-class{
+	background: transparent !important;
+	padding-top: 0;
+}
+#rform
+{
+	color: #000;
+	font-size: 18px;
+}
+#rform input[type=text],input[type=email],input[type=password]
+{
+	border-radius: 0;
+	color: #000;
+}
+#rform select
+{
+	border-radius: 0;
+	color: #000;
+}
+#rform input[type=file]
+{
+	border-radius: 0;
+	color: #000;
+	padding: 5px;
+}
+#rform input::placeholder { 
+  color: red;
+}
+
+#rform .inner
+{
+	background: none;
+}
+#rform #register
+{
+	width: 100%;
+}
+#rform .radio-inline
+{
+	margin: 0 10px;
+}
+
+.navbar-light
+{
+	box-shadow: 0 6px 6px -6px black;
+}
+
+.btn-link
+{
+	font-size: 30px;
+	color: #000 !important;
+}
+
+.side-nav-bar
+{
+	background: #fff !important;
+	color: #000 !important;
+}
+.side-nav-bar .nav-link
+{		
+	color: #000 !important;
+}
+
+.main-dash-section
+{
+	background: #a3dac5;
+}
+
+.main-dash-section .main-dash-section-bg
+{
+	background: transparent !important;
+}
+
+.work-details-form
+{
+	width: 100%;
+	margin: 0 auto;
+}
+.employeeregisters
+{
+	width: 50%;
+	margin: 0 auto;
+}
+.employeeregisters input[type=text],input[type=email],input[type=number]
+{
+	border: 1px solid #000;
+	border-radius: 0;
+}
+
+.employeeregisters select
+{
+	border: 1px solid #000;
+}
+.upadte-user-profile
+{
+	margin: 0 auto;
+}
+
+.work-details-form input[type=text],input[type=email],input[type=number]
+{
+	color: #000;
+	border: 1px solid #000;
+	border-radius: 0;
+}
+
+.work-details-form select
+{
+	border: 1px solid #000;
+}
+.work-details-form
+{
+	color: #000;
+	margin: 0 auto;
+}
+.favourite-button
+{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.modal-header
+{
+	background: #000 !important;
+}
+.table-bg
+{
+	background: antiquewhite;
+}
+.profile-img{
+	 box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12);
+}
+.updatehirerprofile
+{
+	margin: 0 auto;
+}
